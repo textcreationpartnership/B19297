@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majestie's gracious speech to both Houses of Parliament, on Monday, July 8. 1661 Together with the speech of Sir Edward Turner, Kt. Speaker of the Honourable House of Commons.</title>
+            <title>Speeches. 1661-07-08</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19297</idno><idno type="EEBO-CITATION">99834816_207534</idno>
+  <idno type="VID">207534</idno>
+  <idno type="EEBO-PROQUEST">2264177763</idno>
+  
+            <idno type="STC">Wing C3043</idno>
+            <idno type="PROQUEST">99834816</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99834816e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19297)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207534)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 733:9, 1899:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majestie's gracious speech to both Houses of Parliament, on Monday, July 8. 1661 Together with the speech of Sir Edward Turner, Kt. Speaker of the Honourable House of Commons.</title>
+                  <title>Speeches. 1661-07-08</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>Turnor, Edward, Sir, 1617-1676.</author>
+               </titleStmt>
+               <extent>[2], 9-14, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Bill and Christopher Barker, printers to the King's most Excellent Majesty. 1661. At the King's Printing-House in Black-Fryers,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At foot of title: Cum privilegio.</note>
+                  <note>Text continuous despite pagination.</note>
+                  <note>The last leaf bears a colophon on recto.</note>
+                  <note>"The speech of Sr Edw. Turner, Kt. Speaker of the Honourable House of Commons to the King's Most Excellent Majesty, delivered on Monday the eighth day of July, 1661" has separate dated title page; pagination and register are continuous.</note>
+                  <note>"The speech of Sr Edw. Turner" is identified as Wing T3351 (entry cancelled in Wing 2nd ed.) on UMI microfilm "Early English books, 1641-1700", reel 1899.</note>
+                  <note>Reproductions of the originals in the Henry E. Huntington Library and Art Gallery (reel 733), and the British Library (part 2 only, reel 1899).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207534:1"/>
+            <p>THE SPEECH OF S<seg rend="sup">r</seg> Edw. Turner, K<seg rend="sup">t.</seg>
+               <hi>Speaker</hi> of the Honorable House of COMMONS, TO THE KING'S Most Excellent MAJESTY, <hi>Delivered on Monday the Eighth day of</hi> July, 1661.</p>
+            <figure>
+               <figDesc>arms of Charles II</figDesc>
+               <q>HONI SOIT QVI MAL <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> PENSE</q>
+               <q>DIEV ET MON DROIT</q>
+            </figure>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>John Bill</hi> and <hi>Christopher Barker,</hi> Printers to the KING'S most Excellent Majesty. 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:207534:2"/>
+            <pb n="9" facs="tcp:207534:2"/>
+            <head>The Speech of Sir <hi>Edward Turner</hi> Knight, Speaker of the Honorable House of <hi>Commons,</hi> to the KING'S most Excellent Majesty, de<g ref="char:EOLhyphen"/>livered on Monday the Eighth day of <hi>July,</hi> 1661. at the Passing the Bill for Confirmation of the Act of Oblivion, &amp;c.</head>
+            <opener>May it please Your most Excellent Majesty,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Writ of Summons whereby Your Majesty was pleased to call together the Knights, Citizens, and Burgesses of the Commons House of Parliament, gave us to understand that Your Majesty had divers weighty and urgent matters to communicate to us: Such as did concern Your Royal Person, Your State and Dignity, the Defence of the Kingdom, and the Church of <hi>England:</hi> And in the same method propounded to us by Your Majesty, we have applied our selves to offer You our best counsel and ad<g ref="char:EOLhyphen"/>vice.</p>
+            <p>We found Your Majesty miraculously preser<g ref="char:EOLhyphen"/>ved by the hand of God, from the hands of Your Enemies; we found You peaceably seated in the Throne of Your Ancestors; we found the Heredi<g ref="char:EOLhyphen"/>tary
+<pb n="10" facs="tcp:207534:3"/> Imperial Crown of these Nations auspitiously set upon Your Royal Head, and all this after a sharp and a bloody Civil War;</p>
+            <p>We held it our duties in the first place to endea<g ref="char:EOLhyphen"/>vor the safety and preservation of Your Majesties Person and Government, and to that purpose have prepared a Bill.</p>
+            <p>Next to the safety of Your Majesty, we took into consideration the state and power that is neces<g ref="char:EOLhyphen"/>sary for so great a Prince; and do hope ere long, to settle Your <hi>Militia</hi> so, that by the blessing of God, You need not fear Storms from abroad, or Earth<g ref="char:EOLhyphen"/>quakes here at home.</p>
+            <p>Your Majesty was pleased at the opening of the Parliament, to recommend unto us two Bills; one for confirmation of publick Acts, another for the private Acts that passed the last Parliament; they were so many in number, and great in weight, that hitherto we could not consider of them all, but some we have perused. The Act for confirmation of Ju<g ref="char:EOLhyphen"/>dicial proceedings, for taking away the Court of Wards, and Liveries, and Purveyance, and also all those that do relate to Your Majesties Customs and Excise. And that we might with some chear<g ref="char:EOLhyphen"/>fulness
+<pb n="11" facs="tcp:207534:3"/> see Your Majesties face, we have brought our Brother <hi>Benjamin</hi> with us, I mean Your Act of Oblivion: I take the boldness to call it Yours, for so it is by many Titles; Your Majesty first con<g ref="char:EOLhyphen"/>ceived it at <hi>Breda,</hi> You helped to contrive and form it here in <hi>England,</hi> and we must all bear You wit<g ref="char:EOLhyphen"/>ness, You labored and travelled till it was brought forth: And since it had a being, some question be<g ref="char:EOLhyphen"/>ing made of its legitimation, Your Royal Heart is not at ease until it be confirmed. And now Sir give me leave to say, by the suffrage of a full, a free, and a legal Parliament it is presented to Your Majesty to be naturalized. Your Majesties de<g ref="char:EOLhyphen"/>sires are fully answered by all the Representa<g ref="char:EOLhyphen"/>tives of the People; and their hearty prayer to God is, that all Your Subjects may be truly thank<g ref="char:EOLhyphen"/>ful to You; and that Your Majesty may long live to enjoy the fruits of this unparallel'd mercy.</p>
+            <p>Your Majesty was pleased to intimate to us on Saturday last, that You so valued the quiet and sa<g ref="char:EOLhyphen"/>tisfaction of your people, and the keeping of Your Royal word with them, that although divers other Bills were made ready for You, You would vouch<g ref="char:EOLhyphen"/>safe the honor to this Bill alone, Your Favorite, to come and pass it. Sir, hereby You have made this a great Holiday, and we shall observe it with Joy
+<pb n="12" facs="tcp:207534:4"/> and Thank<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>giving. Ʋpon such solemn Festivals, there useth to be a second Service, an Antheme, and a Collect, or at least an Offering; my Antheme shall be, <hi>Quid tibi retribuam Domine?</hi> and my Collect a short report of Your Revenue. We know great Sir, that money is both the Sinews of War, and Bond of Peace; we have therefore taken care of Your Majesties Revenue, and do desire to make it in some good proportion suitable both to Your Gran<g ref="char:EOLhyphen"/>dure and Your Merit.</p>
+            <p>We do believe the state of our King, is the ho<g ref="char:EOLhyphen"/>nor of our State; and the best way to preserve our Peace, is to be well provided for War: Our time hath not permitted us to finish this work, but as an earnest of our good affections we desire Your Majesty to accept an offering from us.</p>
+            <p>We cannot enough admire Your Majesties Pa<g ref="char:EOLhyphen"/>tience, Providence, and Frugality abroad; You did not bring home a debt for us to pay, great as a Princes Ransom. And since your return, You have not with King <hi>Edward</hi> the Third after His Wars in <hi>France,</hi> or <hi>Henry</hi> the Fourth, <hi>Henry</hi> the Se<g ref="char:EOLhyphen"/>venth, or <hi>Henry</hi> the Eighth, desired new and great Aids and heavy Subsidies from Your People for Your Supplies.</p>
+            <pb n="13" facs="tcp:207534:4"/>
+            <p>No Sir, You have b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en so far from asking that part of the Money which was given You last Parliament for Your Houshold Provision, You have issued out towards payment of our Debts, You have robbed Your own Table (I had almost said given the meat out of your own belly) to feed the hungry Seamen.</p>
+            <p>Dear Sir, these things have a just influence up<g ref="char:EOLhyphen"/>on the people, they fill our hearts with joy and affecti<g ref="char:EOLhyphen"/>on to your Majesty.</p>
+            <p>I do not pretend much to Physiognomy, but if I mistake not greatly, the faces of the people do pro<g ref="char:EOLhyphen"/>mise great frankness and chearfulness in your pre<g ref="char:EOLhyphen"/>sent Supplies.</p>
+            <p>What would not your Majesties Friends have given within these Eighteen moneths, to have seen your Majesty thus happily setled? and what can be too much for those to return, who have re<g ref="char:EOLhyphen"/>ceived all they enjoy from your Majesties mercy?</p>
+            <pb n="14" facs="tcp:207534:5"/>
+            <p>Great Sir, to conclude this s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>emn Service, The Commons of <hi>England</hi> do by me their Servant, humbly present you with this Bill, entituled, <hi>An Act for a free and voluntary Present,</hi> and wish it a suceess answerable to your Royal Hearts desire.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <pb facs="tcp:207534:5"/>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>John Bill</hi> and <hi>Christopher Barker,</hi> Printer's to the KING'S most Excellent Majesty. 1661.</p>
+            <p>At the KING'S Printing-House in <hi>Black-Fryers.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
